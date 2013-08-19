@@ -1,5 +1,5 @@
 /*
- * Copyright 2011 Kristian Kraljic, Johannes Schüth 2008. All rights reserved.
+ *   Copyright 2011 Kristian Kraljic, Johannes Schüth 2008. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without modification, are
  * permitted provided that the following conditions are met:
@@ -25,6 +25,7 @@
  * authors and should not be interpreted as representing official policies, either expressed
  * or implied, of Kristian Kraljic and Johannes Schüth.
  */
+
 
 package de.ksquared.test.system.keyboard;
 
